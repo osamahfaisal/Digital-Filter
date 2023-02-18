@@ -1,5 +1,6 @@
 # Digital-Filter
-
+<img src="gif/digital_Filter.jpg">
+<br><br><br>
 <IMG SRC="gif/Animation.gif">
 <br>
 
