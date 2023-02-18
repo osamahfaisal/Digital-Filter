@@ -2,7 +2,7 @@
 # image
 <img src="gif/digital_Filter.jpg">
 <br><br><br>
-# gif 
+#gif 
 <IMG SRC="gif/Animation.gif">
 <br>
 
